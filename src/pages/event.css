@@ -1,0 +1,33 @@
+.app{
+    margin-top: 1rem;
+    justify-content: center;
+    text-align: center;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header button{
+    padding: 0.5rem;
+    margin: 1rem;
+    background-color: lightcoral;
+    color: white;
+    font-weight: bold;
+}
+.add-event div{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+.add-event div input{
+    padding: 0.5rem;
+    text-align: center;
+}
+.event{
+    background-color: darkred;
+    color: white;
+    font-weight: bold;
+    padding: 0.6rem 10rem;
+}
